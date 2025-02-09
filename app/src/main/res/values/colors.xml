@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Teal80">#03A094</color>      <!-- Teal Green for primary elements -->
+    <color name="primary_green">#4CAF50</color>     <!-- Green for buttons or highlights -->
+    <color name="secondary_light_green">#8BC34A</color> <!-- Light Green for secondary elements -->
+    <color name="accent_aqua">#03DAC5</color>       <!-- Aqua for accent elements -->
+    <color name="accent_dark_teal">#018786</color>  <!-- Dark Teal for background or borders -->
+    <color name="text_black">#000000</color>        <!-- Black for text -->
+    <color name="text_white">#FFFFFF</color>        <!-- White for text and background -->
+</resources>

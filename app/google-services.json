@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704711198824",
+    "project_id": "reserveit-e4d18",
+    "storage_bucket": "reserveit-e4d18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704711198824:android:17189d31b9a3e3e8a293dd",
+        "android_client_info": {
+          "package_name": "com.example.reserveit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGqVz6Nbv3ZgWlSW_XHd6Q-NJGqegm1YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
